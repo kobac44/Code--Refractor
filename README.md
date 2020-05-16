@@ -30,8 +30,11 @@ Built With:
 index.html
 style.css
 
-Contributors:
-Summer Healey
-Dwayne Fonville
-Andrew Starr
-Luke Evans
+Contributors: Class Mates:
+Summer Healey; contribute to CSS coding clarity
+Dwayne Fonville; contribute to HTML re-stucture
+Luke Evans; contribute connecting images to the CSS
+
+
+
+
