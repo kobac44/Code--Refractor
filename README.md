@@ -26,3 +26,12 @@ Syle.CSS fixes were:
 6 The container has an "aside" float that is the element I preferred using (again my colleague helped make that decision), again helping the relationship and clarity of the CSS code.
 Making image changes using CSS made working on the "Horiseon" a bit smoother.
 
+Built With:
+index.html
+style.css
+
+Contributors:
+Summer Healey
+Dwayne Fonville
+Andrew Starr
+Luke Evans
