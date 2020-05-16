@@ -1,4 +1,7 @@
 # Code--Refractor
+Installation: use the URL provided
+
+
 Horiseon Website:
 Purpose of this Collaborative Project for this website, is contribute through editing the pre-exsisting html and css code. Thereby achieving a clear and functional as well as sustainability to the Team Marketing Collaboration or Horiseon Website.
 
